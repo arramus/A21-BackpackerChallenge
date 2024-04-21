@@ -1,0 +1,4 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,spanish,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese
+
+workbench,blocks,Workstation,,,Backpacker Workbench,,,,,,,,,,,,,
+workbenchDesc,blocks,Workstation,,,"This is a Backpacker Workbench and can only craft items that you can craft in your backpack.\n\nRepair with Forged Iron, Mechanical Parts, and Wood.",,,,,,,,,,,,,

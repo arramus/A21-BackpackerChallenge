@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="A21_BackpackerChallenge" />
+	<DisplayName value="A21 Backpacker Challenge" />
+	<Description value="Allows crafting from only the backpack/Backpacker Workbench and campfire recipes." />
+	<Author value="arramus" />
+	<Version value="21.2.1.0" />
+	<Website value="" />
+</xml>
