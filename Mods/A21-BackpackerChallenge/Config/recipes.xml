@@ -3686,7 +3686,7 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<effect_group>
 		<passive_effect name="CraftingIngredientCount" operation="perc_add" level="0" value=".5" tags="resourceDuctTape,resourceLeather,resourceSpring,resourceMetalPipe"/>
 	</effect_group>
-</recipe>
+</recipe-->
 
 <recipe name="vehicleBicyclePlaceable" count="1" craft_time="30" tags="workbenchCrafting">
 	<ingredient name="vehicleWheels" count="2"/>
@@ -3695,7 +3695,7 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceMechanicalParts" count="1"/>
 </recipe>
 
-<recipe name="vehicleGyroCopterAccessories" count="1" craft_time="270" craft_area="workbench" tags="perkGreaseMonkey,learnable,workbenchCrafting">
+<!--recipe name="vehicleGyroCopterAccessories" count="1" craft_time="270" craft_area="workbench" tags="perkGreaseMonkey,learnable,workbenchCrafting">
 	<ingredient name="resourceElectricParts" count="33"/>
 	<ingredient name="resourceHeadlight" count="8"/>
 	<ingredient name="resourceMetalPipe" count="50"/>
